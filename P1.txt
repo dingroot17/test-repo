@@ -6,3 +6,5 @@ Summa
 For Git
 
 For the test branch
+
+for the pull
